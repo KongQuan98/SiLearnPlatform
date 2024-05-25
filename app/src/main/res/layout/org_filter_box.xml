@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:padding="10dp"
+    android:background="@drawable/popup_background"
+    android:id="@+id/popup_container">
+
+    <RadioGroup
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/deletePost"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/radioGroup"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_bg"
+        android:text="Select"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

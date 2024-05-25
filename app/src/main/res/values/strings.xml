@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sign Learner</string>
+    <string name="hello_there">Hello</string>
+    <string name="handsome">Handsome</string>
+    <string name="search_here">Search Here</string>
+    <string name="application_features">Application Features</string>
+    <string name="dummy">Use Translator function to check on the sign language and form words as you wished.</string>
+    <string name="dummy2">Learner function provides a wide range of categories of sign languages for you to explore and learn yourself!</string>
+    <string name="dummy3">Check out our community to find out more about the relevant Deaf Societies in Malaysia!</string>
+    <string name="dummy4">Test what you have learnt now on the Quiz function.</string>
+    <string name="dummy5">Library function allows you to search for relevant .</string>
+    <string name="moretipes">Find it helpful? Click here for more tips!</string>
+    <string name="randomLongText">Lorem ipsum dsadsadsadsa dsadsa dsadsa dsads asdsad asdsa dsadsa dsadsa dsadsa dsadsa dsadsa dsadsa dsadsa saddsa dsadsa dsadsa sdadsa dsad sad sa dsa dsadsa.</string>
+
+    <string-array name="positions">
+        <item>Self-Learner</item>
+        <item>Community Administrator</item>
+    </string-array>
+
+</resources>

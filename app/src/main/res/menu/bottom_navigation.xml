@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item android:id="@+id/menuLearn"
+        android:icon="@drawable/ic_book"
+        android:title="Learning"/>
+    <item android:id="@+id/menuCamera"
+        android:icon="@drawable/ic_camera_24"
+        android:title="Scanner"/>
+    <item android:id="@+id/menuCommunity"
+        android:icon="@drawable/ic_people"
+        android:title="Community"/>
+    <item android:id="@+id/menuProfile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Account"/>
+
+</menu>

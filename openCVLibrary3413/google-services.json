@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728375102181",
+    "project_id": "slts-a26e9",
+    "storage_bucket": "slts-a26e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728375102181:android:934e6cf7137ff76819e20c",
+        "android_client_info": {
+          "package_name": "com.example.SLTS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728375102181-m6e2i1mk289pp5s6qlfvm3lmrlp3hng5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1lYlFN-X2q6ixqQOsFGmie-1VpnwuNgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728375102181-m6e2i1mk289pp5s6qlfvm3lmrlp3hng5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
