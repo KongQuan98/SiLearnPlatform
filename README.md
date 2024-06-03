@@ -56,6 +56,6 @@
 <h3>Video Presentation 🎥</h3>
 <p align="left">My FYP presentation 😆 </p>
 
-[![My FYP Presentation](https://img.youtube.com/vi/jqCAooXVT2c/0.jpg)](https://www.youtube.com/watch?v=jqCAooXVT2c)
+[![My FYP Presentation](https://img.youtube.com/vi/jqCAooXVT2c/1.jpg)](https://www.youtube.com/watch?v=jqCAooXVT2c)
 
 
