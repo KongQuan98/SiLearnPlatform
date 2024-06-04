@@ -39,6 +39,8 @@
 <br>
 <h3>Some Feature Showcase 🏹</h3>
 
+<img align="right" alt="sample feature showcase gif" src="https://github.com/KongQuan98/SiLearnPlatform/assets/79594104/3f8c0425-6086-4c83-a8d1-772e39841afe" width="250px" height="500px"/>
+
 - [Main Feature (Sign Language Recognition)](https://drive.google.com/file/d/1InVo5FeQHUTj6QZvFW2gLdZBfjcPmpgH/view?usp=drive_link)
 - [Learning Feature](https://drive.google.com/file/d/1IXHgxg7b5WkIhEeQSa5wPxe9klP0INzQ/view?usp=drive_link)
 - [Quiz Feature](https://drive.google.com/file/d/1IasVSTs5QcETU1NrCoQ9NWy69lEVRXjr/view?usp=drive_link)
@@ -56,6 +58,6 @@
 <h3>Video Presentation 🎥</h3>
 <p align="left">My FYP presentation 😆 </p>
 
-[![My FYP Presentation](https://img.youtube.com/vi/jqCAooXVT2c/1.jpg)](https://www.youtube.com/watch?v=jqCAooXVT2c)
+[![My FYP Presentation](https://img.youtube.com/vi/jqCAooXVT2c/0.jpg)](https://www.youtube.com/watch?v=jqCAooXVT2c)
 
 
