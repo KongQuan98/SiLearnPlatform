@@ -5,7 +5,7 @@
 
   - This is the Final Year Project for my Computer Science Degree which:
       - Built on Android Studio (Java) 🤖
-      - Integrated with OpenCV library along with model trained with pre-trained CNN image classification model of EfficientNetB0
+      - Integrated with OpenCV library along with model trained with pre-trained CNN image classification model of EfficientNetB0 (Credits to: [ElectroCode](https://www.youtube.com/playlist?list=PL0aoTDj9NwgjLj4zei6P1jZH8sQ5YRpQK))
   - A sign language learning platform for everyone to start learning fundamental of sign language efficiently with the use of sign language recognition system.
 
 <br>
