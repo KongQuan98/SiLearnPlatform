@@ -71,9 +71,15 @@ public class ObjectDetectorClass {
         classification_InputSize = classification_inputSize;
         // use to define gpu or cpu // no. of threads
         Interpreter.Options options = new Interpreter.Options();
-        gpuDelegate = new GpuDelegate();
-        options.addDelegate(gpuDelegate);
-        options.setNumThreads(4); // set it according to your phone
+
+        // Some devices doesnt support GPU
+//        gpuDelegate = new GpuDelegate();
+//        options.addDelegate(gpuDelegate);
+//        options.setNumThreads(4);
+
+        // Hence we can switch it to NNAPI
+        options.setUseNNAPI(true);
+
         // loading model
         interpreter = new Interpreter(loadModelFile(assetManager, modelPath), options);
         // load labelmap
@@ -470,9 +476,7 @@ public class ObjectDetectorClass {
         output_map.put(2, scores);
 
         // now predict
-        new Thread(() -> {
-            interpreter.runForMultipleInputsOutputs(input, output_map);
-        });
+        interpreter.runForMultipleInputsOutputs(input, output_map);
 
         // Before watching this video please watch my previous 2 video of
         //      1. Loading tensorflow lite model
